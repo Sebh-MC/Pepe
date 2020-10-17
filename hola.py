@@ -1,1 +1,1 @@
-#Hola gente
+print("Hola!")
